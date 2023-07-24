@@ -39,9 +39,10 @@ Contribuições são bem-vindas! Se você deseja contribuir para aprimorar a Cal
 Crie um branch para sua feature (**git checkout -b feature/sua-feature**)  
 
 **Faça suas alterações**  
-Commit suas mudanças (**git commit -m 'Adicione sua mensagem aqui'**)  
 
+Commit suas mudanças (**git commit -m 'Adicione sua mensagem aqui'**)  
 Push para o branch (**git push origin feature/sua-feature**)  
+
 **Abra um Pull Request**
 
 # Licença
