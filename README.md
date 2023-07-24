@@ -3,7 +3,7 @@
 # TDD-Calculadora
 
 Uma calculadora simples em c# que realiza operações básicas de adição, subtração, multiplicação e divisão.
-Usamo esse teste para dar inicio ao **TDD (Test-Driven Development)**.  
+Usamos esse teste para dar inicio ao **TDD (Test-Driven Development)**.  
 E ao **CI (Continuous Integration)** que é uma prática de desenvolvimento de software que envolve a integração frequente do código de diferentes desenvolvedores em um repositório compartilhado
 
 ## Uso
