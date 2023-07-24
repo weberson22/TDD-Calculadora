@@ -34,12 +34,15 @@ public class Main {
 # Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para aprimorar a Calculadora Simples, siga estes passos:
 
-Faça um fork do repositório  
+**Faça um fork do repositório**  
+
 Crie um branch para sua feature (**git checkout -b feature/sua-feature**)  
-Faça suas alterações  
+
+**Faça suas alterações**  
 Commit suas mudanças (**git commit -m 'Adicione sua mensagem aqui'**)  
+
 Push para o branch (**git push origin feature/sua-feature**)  
-Abra um Pull Request
+**Abra um Pull Request**
 
 # Licença
 Este projeto está sob a licença MIT. Consulte o arquivo **LICENSE** para mais detalhes.
