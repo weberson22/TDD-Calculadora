@@ -1,6 +1,13 @@
-[![.NET Core Desktop](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml)
+# Status do Projeto
 
-# TDD-Calculadora
+![GitHub stars](https://img.shields.io/github/stars/weberson22/TDD-Calculadora.svg?style=social&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/weberson22/TDD-Calculadora.svg?style=social&label=Forks)
+![GitHub issues](https://img.shields.io/github/issues/weberson22/TDD-Calculadora.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/weberson22/TDD-Calculadora.svg)
+[![.NET Core Desktop](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## TDD-Calculadora
 
 Uma calculadora simples em c# que realiza operações básicas de adição, subtração, multiplicação e divisão.
 Usamos esse teste para dar inicio ao **TDD (Test-Driven Development)**.  
@@ -33,7 +40,7 @@ public class Main {
 }
 ```
 
-# Contribuição
+## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para aprimorar a Calculadora Simples, siga estes passos:
 
 **Faça um fork do repositório**  
@@ -47,8 +54,8 @@ Push para o branch (**git push origin feature/sua-feature**)
 
 **Abra um Pull Request**
 
-# Licença
+## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo **LICENSE** para mais detalhes.
 
-# Contato
+## Contato
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo através do meu e-mail: **carlinhos_usa@hotmail.com**
