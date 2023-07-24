@@ -12,9 +12,19 @@ namespace Calculadora.Test
             {
                 var sut = new CalculadoraSimples();
 
-                var result = sut.Adicionar(5, 5);
+                var result = sut.Somar(5, 5);
 
                 Assert.That(result, Is.EqualTo(10));
+            }
+
+            [Test]
+            public void SubtrairDoisNumeros()
+            {
+                var sut = new CalculadoraSimples();
+
+                var result = sut.Subtrair(5, 3);
+
+                Assert.That(result, Is.EqualTo(2));
             }
 
             [Test]
@@ -25,6 +35,16 @@ namespace Calculadora.Test
                 var result = sut.Multiplicar(5, 3);
 
                 Assert.That(result, Is.EqualTo(15));
+            }
+
+            [Test]
+            public void DividirDoisNumeros()
+            {
+                var sut = new CalculadoraSimples();
+
+                var result = sut.Dividir(6, 2);
+
+                Assert.That(result, Is.EqualTo(3));
             }
         }
     }
