@@ -4,6 +4,33 @@
 
 Uma calculadora simples em Java que realiza operações básicas de adição, subtração, multiplicação e divisão.
 
+## Uso
+
+```csharp
+using System;
+
+public class Main {
+    public static void Main(string[] args) {
+        CalculadoraSimples calculadora = new CalculadoraSimples();
+
+        int num1 = 10;
+        int num2 = 5;
+
+        int resultadoSoma = calculadora.Somar(num1, num2);
+        Console.WriteLine("Soma: " + resultadoSoma);
+
+        int resultadoSubtracao = calculadora.Subtrair(num1, num2);
+        Console.WriteLine("Subtração: " + resultadoSubtracao);
+
+        int resultadoMultiplicacao = calculadora.Multiplicar(num1, num2);
+        Console.WriteLine("Multiplicação: " + resultadoMultiplicacao);
+
+        int resultadoDivisao = calculadora.Dividir(num1, num2);
+        Console.WriteLine("Divisão: " + resultadoDivisao);
+    }
+}
+```
+
 # Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para aprimorar a Calculadora Simples, siga estes passos:
 
