@@ -7,7 +7,7 @@
 [![.NET Core Desktop](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## TDD-Calculadora 
+## TDD-Calculadora
 
 Uma calculadora simples em c# que realiza operações básicas de adição, subtração, multiplicação e divisão.
 Usamos esse teste para dar inicio ao **TDD (Test-Driven Development)**.  
