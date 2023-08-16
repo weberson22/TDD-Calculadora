@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/weberson22/TDD-Calculadora.svg)
 [![.NET Core Desktop](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/weberson22/TDD-Calculadora/actions/workflows/dotnet-desktop.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
+ 
 ## TDD-Calculadora
 
 Uma calculadora simples em c# que realiza operações básicas de adição, subtração, multiplicação e divisão.
